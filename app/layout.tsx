@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   description: 'Airbnb clone',
 }
 
-const font=Nunito({
+const font=Inter({
   subsets:['latin']
 })
 
